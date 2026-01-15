@@ -5,8 +5,6 @@
 
 Sizin için geliştirmiş oldugum güzel v14 Ticket System botudur
 
-Not: Proje 0'dan yazılmadı boş altyapıdan alınıp yapıldı
-
 ```js
 "config.js" Dosyasını doldurunuz
 
