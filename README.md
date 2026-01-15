@@ -1,6 +1,6 @@
 **V14 Ticket System Swenzyim**
 
-<a href="https://discord.gg/bdfd" target="_blank">Discord sunucumuza katıl!</a>
+<a href="https://discord.gg/npm" target="_blank">Discord sunucumuza katıl!</a>
 
 
 Sizin için geliştirmiş oldugum güzel v14 Ticket System botudur
